@@ -5,7 +5,7 @@
 # Days to keep logs files.
 $LogsRetention = 30
 # Location of files to be deleted
-$LogPath = "C:\Users\Simileoluwa Babalola\source\repos\Test_Unit_App\.vscode"
+$LogPath = "C:\Users"
 
 # Make the retention times negative.
 $LogsRetention = $LogsRetention * -1
